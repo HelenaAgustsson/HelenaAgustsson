@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HelenaAgustsson
-- 👀 I’m interested in front end web development
-- 🌱 I’m currently learning react
+- 👀 I’m interested in anything front end web development
+- 🌱 I’m currently learning next and sanity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
