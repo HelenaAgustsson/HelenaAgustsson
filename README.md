@@ -1,4 +1,4 @@
-# Hi, I'm Helena
+# Hi, I'm Helena!
 
 Frontend developer with a background in UX, CRO, and component-driven development.
 
@@ -35,7 +35,7 @@ Focused on modern frontend architecture, reusable components, and content-driven
 
 Responsive Gatsby application for browsing adoptable cats and managing content through a headless CMS.
 
-Built to explore static site generation, GraphQL, and component-based architecture.
+Built to showcase and expand what I learned working for Shelter from 2023-2025, including static site generation, GraphQL, and component-based architecture.
 
 **Tech:** Gatsby, React, Styled Components, Contentful, GraphQL, Jest
 
